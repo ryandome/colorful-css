@@ -1,2 +1,10 @@
 
-body {font-family: Times New Roman; background-color: antiquewhite; }
+body {font-family: Times New Roman; background-color: antiquewhite; color:sienna; font-size:150%;}
+
+h1 {font-family: Times New Roman; background-color: sienna; color:white;}
+
+h2{font-family: Time New Roman; background-color: sienna;color:white;}
+
+table { font-size:90%; empty-cells:hide; border-collapse: collapse; width:900px; text-align: center;}
+th {border: 1px solid black; empty-cells: hide;}
+td {border: 1px solid black; empty-cells: hide;}
